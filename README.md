@@ -1,5 +1,9 @@
 # Statistical-Methods
 
-A project for the course "Statistical Methods", Presented in University of Tehran.
+This project provides an optimized prediction algorithm using machine learning regression techniques for house prices.
 
-Needed explanations are given in the Jupyter notebook file.
+Linear Regression, Decision Tree Regression, Random Forest Regression, Support Vector Machine (SVM), and Extreme Gradient Boost Regression (XGBoost) have been tested on the dataset.
+
+I used Pandas, Numpy, MatPlotLib, Sikit-Learn, and Seaborn libraries.
+
+Further explanations are given in the provided file.
